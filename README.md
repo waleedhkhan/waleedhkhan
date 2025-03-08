@@ -1,76 +1,70 @@
-# <div align="center">👋 Hello World! I'm Waleed Hussain</div>
+# Waleed Hussain
 
 <div align="center">
-  
-  *"Turning coffee into code and chaos into products since 2008"*
-  
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=waleedhkhan.waleedhkhan)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/waleedhk/)
-  [![Website](https://img.shields.io/badge/Website-Visit-brightgreen?style=flat&logo=safari)](https://waleed.de)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/waleedhk/)
+[![Website](https://img.shields.io/badge/Website-waleed.de-brightgreen?style=flat&logo=safari)](https://waleed.de)
 
 </div>
 
-## 🚀 My Tech Adventures
+## About Me
 
-From smashing bugs to leading teams, I've worn many hats in my 15+ year journey through the tech universe. I've gone from writing PHP in dark rooms to making big decisions in bright boardrooms!
+With over 15 years of experience in software engineering and leadership, I specialize in transforming concepts into scalable, production-ready solutions. My expertise spans technical development, team leadership, and strategic business growth in the e-commerce and technology sectors.
+
+## Career Progression
 
 ```
-Engineering  →  Head of     →  CTO &     →  CTO  →  Accelerator  →  CEO of an
-Wizard          E-Commerce     Founder                Builder        E-Commerce Platform
+Engineering      Head of         CTO &          CTO          Accelerator       CEO
+Manager       →  E-Commerce   →  Founder    →           →  Builder        →  Comparado GmbH
+2010-2012        2012-2013       2013-2015     2016-2018    2018-2020         2020-Present
 ```
 
-## 💻 What I Speak
+## Technical Expertise
+
 ```javascript
-const waleed = {
-  code: ["Python", "JavaScript", "PHP", "Go", "SQL", "Shell"],
+const technologies = {
+  languages: ["Python", "JavaScript", "PHP", "Go", "SQL", "Shell"],
   frameworks: ["Laravel", "NextJS", "FastAPI", "PyTorch"],
-  cloudTech: ["AWS", "Docker", "Kubernetes", "CI/CD"],
-  dataTools: ["Kafka", "Airflow", "Metabase", "Snowplow", "ElasticSearch"],
-  currentRole: "CEO @ Comparado GmbH (preis.de)",
-  funFact: "I once debugged production code while hiking in the Alps"
+  cloud: ["AWS ECS", "EKS", "S3", "Lambda", "RDS", "SQS", "Glue & Athena"],
+  infrastructure: ["Docker", "Kubernetes", "CI/CD with Github Actions", "Ansible"],
+  dataEngineering: ["Kafka", "Airflow", "Metabase", "Snowplow", "ElasticSearch"],
+  focus: "Scalable e-commerce systems and data-driven solutions"
 };
 ```
 
-## 🧙‍♂️ Tech Superpowers
+## Professional Experience
 
-I transform coffee into code, business problems into elegant solutions, and teams into high-performing wizards!
+### CEO | Comparado GmbH (preis.de)
+*Berlin, Germany | 2020 - Present*
 
-<table>
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" />
-    </td>
-    <td>
-      <h3>When I'm in the zone:</h3>
-      <ul>
-        <li>🔮 Conjuring scalable systems</li>
-        <li>🧪 Brewing microservices architecture</li>
-        <li>🚀 Launching products that users love</li>
-        <li>🧠 Mentoring tech talent</li>
-        <li>🎸 Playing guitar when Git pushes fail</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+Leading a major price comparison platform in the German market, handling over 500 million offers and 50,000 active shops.
 
-## 🏆 Epic Quests Completed
+**Key Achievements:**
+- Achieved profitability within the first fiscal year
+- Successfully implemented remote-first operations during the pandemic
+- Scaled platform infrastructure to handle 400 updates per second
+- Represented the company in antitrust proceedings against Google
 
-### Level 10: CEO at preis.de
-Commanding a platform handling 500M+ offers and 400 updates per second. 
-*Special achievement: Made it profitable in first year while fighting a boss battle against Google!*
+### Accelerator Builder | Trotec GmbH
+*Berlin & Heinsberg, Germany | 2018 - 2020*
 
-### Level 9: Accelerator Builder at Trotec
-Relaunched e-commerce into 20 international markets and doubled conversion rates.
-*Achievement unlocked: Global expansion mastery!*
+Led the modernization and international expansion of e-commerce operations across 20 markets.
 
-### Level 8: CTO at Dr. Förster AG
-Digitally transformed a 20-year-old manufacturing infrastructure.
-*Special move: Legacy code whisperer!*
+**Highlight:** Doubled conversion rates through strategic technical improvements and UX optimization.
 
-### Level 7 and below:
-Launched an Art Marketplace, co-founded a successful agency, led E-commerce teams, and started as a humble code warrior.
+### CTO | Dr. Förster AG
+*Berlin, Germany | 2016 - 2018*
 
-## 🛠️ My Toolbox
+Directed the digital transformation of manufacturing infrastructure, aligning technical strategy with business goals.
+
+### Previous Roles
+
+- **Interim CTO** at fineartmultiple GmbH (2015-2016)
+- **Co-Founder & CTO** at 23 Digital Concepts GmbH (2013-2015)
+- **Head of E-Commerce** at P&P Medien GmbH (2012-2013)
+- **Engineering Manager** at Vipsportnahrung GmbH (2010-2012)
+
+## Technical Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -83,31 +77,37 @@ Launched an Art Marketplace, co-founded a successful agency, led E-commerce team
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 
-## 🌱 Current Side Quests
+## Leadership Approach
 
-- Exploring AI applications in e-commerce
-- Building a guitar-tuning app (because why not?)
-- Hiking to the tallest peaks in Europe
-- Perfecting my cricket bowling technique
+My leadership philosophy centers on:
+- Building high-performing, autonomous teams
+- Mentoring technical talent to achieve their potential
+- Aligning technological decisions with business objectives
+- Creating sustainable and scalable processes
 
-## 💬 Random Facts
+## Education
 
-- 🔤 Can speak 4 languages but still struggle to understand regex
-- 🧠 Once memorized Pi to 100 digits to win a bet
-- 🧗‍♂️ Believe the best code solutions come while hiking
-- 🎸 Can play the Game of Thrones theme on guitar
-- 🏏 Cricket enthusiast who applies agile principles to the sport
+- **BBA**, Vienna International University (2011)
+- **Technical College Diploma**, HTL Vienna (2007)
+- **Corporate Entrepreneurship Training**, Columbia Business School (2020)
+- **Software Engineering Certification**, WIFI Wien (2009)
 
-## 📫 Send a Raven
+## Languages
 
-- 💌 [info@waleed.de](mailto:info@waleed.de)
-- 🔗 [linkedin.com/in/waleedhk](https://linkedin.com/in/waleedhk/)
-- 🌐 [waleed.de](https://waleed.de)
+- German (C2)
+- English (C2)
+- Urdu (Native)
+- Hindi (Native)
 
-<div align="center">
-  
-  *"In a world of 0s and 1s, be a 2"*
-  
-</div>
+## Current Focus Areas
 
-<!-- Yes, I scrolled all the way down here to see if there were any Easter eggs. Here's a cookie for your effort: 🍪 -->
+- Enhancing data-driven decision making in e-commerce
+- Exploring AI applications for product matching and price optimization
+- Scaling infrastructure for improved performance and reliability
+- Building sustainable engineering practices
+
+## Connect
+
+- Email: [info@waleed.de](mailto:info@waleed.de)
+- LinkedIn: [linkedin.com/in/waleedhk](https://linkedin.com/in/waleedhk/)
+- Website: [waleed.de](https://waleed.de)
